@@ -9,5 +9,3 @@
 - Hướng đối tượng trong PHP
 - Framework laravel : Cấu trúc, thao tác với model, view, controller, thao tac database: ORM, query builder,..
 
-- 
-
