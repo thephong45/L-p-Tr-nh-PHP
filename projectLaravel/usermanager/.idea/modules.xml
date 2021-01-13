@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../laravel-unitop.vn/.idea/laravel-unitop.vn.iml" filepath="$PROJECT_DIR$/../laravel-unitop.vn/.idea/laravel-unitop.vn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../middleware/.idea/middleware.iml" filepath="$PROJECT_DIR$/../middleware/.idea/middleware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../unimart/.idea/unimart.iml" filepath="$PROJECT_DIR$/../unimart/.idea/unimart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/usermanager.iml" filepath="$PROJECT_DIR$/.idea/usermanager.iml" />
+    </modules>
+  </component>
+</project>
